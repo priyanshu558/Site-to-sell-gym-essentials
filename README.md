@@ -5,7 +5,8 @@ HTML5
 CSS  
 Javascript
 # Silent Features :
-Responsive Design.
-Portfolio Template.
-Unique and Dynamic Design.
+Responsive Design.  
+Portfolio Template  
+Unique and Dynamic Design.  
+
 Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
